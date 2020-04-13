@@ -1,5 +1,5 @@
 # Squee
-Squee is an ode to Judge Brett Kavanaugh's handwriting. Inspired by the letterforms found from highschool handwriting samples (e.g., https://www.nytimes.com/2018/10/02/us/brett-kavanaugh-georgetown-prep.html). Squee in currently available in .otf and .ttf format.
+Squee is font based on Justice Brett Kavanaugh's handwriting. Inspired by the letterforms found from highschool handwriting samples (e.g., https://www.nytimes.com/2018/10/02/us/brett-kavanaugh-georgetown-prep.html). Squee in currently available in .otf and .ttf format.
 
 The font contains all 26 Roman characters in uppercase and lowercase forms and basic punctuation marks.
 
